@@ -1,6 +1,11 @@
+* {
+    font-size: 18px;
+    margin: 0;
+}
+
 .link {
     text-decoration: none;
-    color: #000;
+    color: #fff;
     margin-right: 10px;
 }
 
@@ -11,11 +16,9 @@
     padding: 10px 30px;
 }
 
-.cuadro {
-    text-decoration:none;
-    color: #000;
+.cuadro1 {
     border: 2px solid #000;
-    padding: 10px 30px;
+    padding: 10px;
 }
 
 header {
@@ -32,11 +35,10 @@ hr {
     color:#000;
 }
 
-body {
-    padding-left: 50px;
-    padding-right: 50px;
-}
-
 .fondo {
-    background-image: url();
+    background-image: url(https://ingenieriademenu.com/wp-content/uploads/2022/04/Como-decorar-una-cafeteria-pequena-con-poco-dinero.jpg);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100%;
+    padding: 20px 40px;
 }
