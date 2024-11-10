@@ -1,7 +1,7 @@
 .link {
     text-decoration: none;
     color: #000;
-    margin: 10px;
+    margin-right: 10px;
 }
 
 .cuadro {
@@ -19,7 +19,7 @@ header {
 }
 
 hr {
-    width: 1000px;
+    width: 60%;
     height: 1px;
     color:#000;
 }
